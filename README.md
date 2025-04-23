@@ -1,13 +1,11 @@
 
 # Tic Tac Toe The Ultimate Collection.
 <a id="up"></a>
-# Cover any TTT from singel player to AI ✅  
+##  Cover any TTT.Singel-player + AI-dummy + (max) AI ✅  
 
-## Zoom out to fit any sceen ✅
+## Zoom to fit any sceen ✅
 
-## Choose who to start first ✅
-
-**AI need 1 second to 'think'..☝️**
+## Choose who to start any game ✅
 
 **Start page for any game**
  https://kaliscandinavia.github.io/Tictactoe
