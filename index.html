@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <link rel="icon" href="flagg.ico" type="image/x-icon">
+    <title>Tic Tac Toe</title>
+ <style>  
+/* Seperat from game CSS  */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 100vh; 
+            background-color: blue; 
+            text-align: center; 
+            box-sizing: border-box; 
+        }
+        img {
+            max-width: 100%; 
+            height: auto; 
+        }
+        h2 {
+            color: red;
+        }
+        h1 , h3 {
+            color: yellow;
+        }
+        /* My Signature buttons style*/
+        button {
+            background-color: green;; 
+            color: white; 
+            padding: 15px 30px; 
+            font-size: 16px; 
+            border: none;
+            border-radius: 5px; 
+            margin: 10px 0; 
+            cursor: pointer; 
+            transition: background-color 0.3s; 
+        }
+        button:hover {
+            background-color: darkgreen;
+        }
+  </style>
+</head>
+<body>
+    <div>
+        <h1>Tic Tac Toe for any needs ✅</h1>
+        <h2>Play single,vs friend,vs PC dummy,or max AI ✅</h2>
+        <h2>Zoom to fit any screen ✅</h2>
+        <button onclick="location.href='ttt/index.html'">Single Player OR vs Friend</button><br><br>
+        <button onclick="location.href='pcDummy/index.html'">vs PC-Dummy</button><br><br>
+        <button onclick="location.href='AI/index.html'">vs AI (MiniMax algorithm)</button>
+        <br>
+        <img src="ai.png" alt="AI Image"><br><br>
+        <h4 style="color: white; margin-top: 20px;"><em>Kali Scandinavia</em></h4>
+    </div>
+</body>
+</html>

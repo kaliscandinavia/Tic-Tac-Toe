@@ -1,0 +1,50 @@
+     body {
+            background-color: blue; 
+            color: white; 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+            padding: 20px; 
+        }
+
+        h1 {
+            color: yellow; 
+        }
+
+        h3 {
+            color: red; 
+        }
+
+      button {
+    background-color: #28a745; /* Green background */
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    cursor: pointer;
+    margin: 15px; 
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+
+        button:hover {
+            background-color: #218838; /* Darker green on hover */
+        }
+
+        p {
+            max-width: 600px; 
+            margin: 0 auto; 
+            line-height: 1.5; 
+        }
+
+        img {
+            max-width: 100%; 
+            height: auto;
+        }
+
+        hr {
+            border: 1px solid white; 
+            margin: 20px 0; 
+        }
+
+      
