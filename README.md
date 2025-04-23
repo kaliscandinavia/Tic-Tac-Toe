@@ -1,14 +1,16 @@
 
 # Tic Tac Toe The Ultimate Collection.
 <a id="up"></a>
-##  Cover any TTT.Singel-player + AI-dummy + (max) AI ✅  
+## Play vs AI-dummy,max AI,or Friend ✅  
 
 ## Zoom to fit any sceen ✅
 
-## Choose who to start any game ✅
-
-**Start page for any game**
- https://kaliscandinavia.github.io/Tictactoe
+## Choose who start any game ✅
+https://kaliscandinavia.github.io/Tic-Tac-Toe
+- Code For All Games ;
+```
+https://github.com/kaliscandinavia/Tic-Tac-Toe
+```
 
   **OS compatibility.Tested on** ✅
   <br><br>
