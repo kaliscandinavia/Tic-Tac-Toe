@@ -27,17 +27,31 @@
         button:hover {
             background-color: #218838; /* Darker green when hover */
         }
+        .img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    margin-right: 100px;
+}
+
+@media (max-width: 600px) {
+    .img {
+        max-width: 100%;
+        margin-right: 20px; /* Adjust margin for smaller screens */
+    }
+}
     </style>
 </head>
 <body>
     <h1  style="color:yellow;">Tic Tac Toe vs AI <p  style="color:red;">miniMax algorithm</p></h1>
     <button onclick="location.href='1index.html'">Human Start</button>
     <button onclick="location.href='2index.html'">AI Start</button>
-     <h3 style="color:red;">miniMax,where it's possible to matematic calculate to the end.</h3>
-    <div>
-<p style="color:yellow; margin: 20px;">If you let AI start,wait for his move!</p>
-    </div>
+     <h3 style="color:red;">miniMax,where it's possible to matematic calculate to the end</h3>
+<h3 style="color:yellow; margin: 20px;">If you let AI start,wait for his move!</h3>
+    <img class="img" src="miniMax.png" alt="image">
+    <br>
     <a href="https://github.com/kaliscandinavia/Tic-Tac-Toe"  style="color: blue;">(To Tic Tac Toe Start Page)</a>
+    <br>
 <h5 style="color:white; margin: 20px;"><em>Kali Scandinavia</em></h5>
 </body>
 </html>
