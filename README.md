@@ -28,5 +28,5 @@ https://github.com/kaliscandinavia/Tic-Tac-Toe
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3)
 <br><br>
-<p align="center">(<a href="#up"</a>Up to top</p><br><br>
+<p align="center">(<a href="#up"</a>Up to top)</p><br><br>
 <p align="center">(<a href="https://github.com/kaliscandinavia/ ">To Kali Scandinavia</a>)</p>
